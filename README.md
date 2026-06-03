@@ -1,0 +1,1 @@
+# AI-Job-Impact-Analytics-Project-PostgreSQL-and-Microsoft-Power-Bi
